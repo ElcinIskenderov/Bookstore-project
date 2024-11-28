@@ -1,2 +1,2 @@
 # TVBookStoreAdminPanel
-SQL language: mySql
+SQL language: PostgreSQL
