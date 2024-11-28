@@ -1,2 +1,2 @@
-# TVBookStoreAdminPanel
+# BookStoreAdminPanel
 SQL language: PostgreSQL
